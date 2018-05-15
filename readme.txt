@@ -1,0 +1,1 @@
+This application is to provider a starter kit for javascript projects.
